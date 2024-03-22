@@ -7,13 +7,9 @@ Kickstarter has made public its data on projects showcased on their platform fro
 ## 1.Data Transformation
 ![image](https://github.com/nohamhmd/Kickstarter-Power-BI-Project/assets/156810723/e530dd9f-d84b-416b-a70f-430202fd4e0b)
 - Merging data files together and ensure that the names of columns in both files are the same to merge accurately.
-
 - Remove null data.
-
 - Remove duplicate data.
-
 - Change deadline column from text to data.
-
 - Rename the dataset.
 
 ## 2.Modeling:
@@ -24,5 +20,14 @@ Kickstarter has made public its data on projects showcased on their platform fro
 - Total Pledged Measure .
 - Total Goal Measure.
 - Success Rate Measure.
+
+## 3.Visualization and gaining insights:
+- High number of projects and backers indicating it's a well thriving platform.
+- It can be seen that a majority of the projects seeking funds in Kickstarter are from the United states.
+- Most ideas are related to films&videos.
+- More than 60% of projects got canceled or failed.
+- About 35% projects are brought to life
+- Tech has the highest success rate.
+- 2015 has the highest success rate.
 
 

@@ -6,12 +6,23 @@ Kickstarter has made public its data on projects showcased on their platform fro
 # Steps:
 ## 1.Data Transformation
 ![image](https://github.com/nohamhmd/Kickstarter-Power-BI-Project/assets/156810723/e530dd9f-d84b-416b-a70f-430202fd4e0b)
-Merging data files together and ensure that the names of columns in both files are the same to merge accurately.
+- Merging data files together and ensure that the names of columns in both files are the same to merge accurately.
 
-Remove null data.
+- Remove null data.
 
-Remove duplicate data.
+- Remove duplicate data.
 
-Change deadline column from text to data.
+- Change deadline column from text to data.
 
-Rename the dataset.
+- Rename the dataset.
+
+## 2.Modeling:
+- Create Hierarchy (Main Category, Category and Project Name) Called it "Project Hierarchy". 
+- Hide the unneeded tables or rename tables.
+- Number of Projects Measure.
+- Number of Backers Measure.
+- Total Pledged Measure .
+- Total Goal Measure.
+- Success Rate Measure.
+
+
